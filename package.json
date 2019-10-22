@@ -1,15 +1,15 @@
 {
-  "_from": "@phaetonhq/phaeton-passphrase",
-  "_id": "@phaetonhq/phaeton-passphrase@2.0.3",
+  "_from": "phaeton-passphrase",
+  "_id": "phaeton-passphrase@2.0.3",
   "_inBundle": false,
   "_integrity": "sha512-SvIWp5/mn8f6eT8ZxCiMtTo2XoaxxT+e6xQSVQAdmEbzs/ez2ez3CIU8kgtHDA8KHbRYhJLGB/B7WhbAhWjx5g==",
-  "_location": "/@phaetonhq/phaeton-passphrase",
+  "_location": "/phaeton-passphrase",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "@phaetonhq/phaeton-passphrase",
-    "name": "@phaetonhq/phaeton-passphrase",
+    "raw": "phaeton-passphrase",
+    "name": "phaeton-passphrase",
     "escapedName": "@phaetonhq%2fphaeton-passphrase",
     "scope": "@phaetonhq",
     "rawSpec": "",
@@ -20,9 +20,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@phaetonhq/phaeton-passphrase/-/phaeton-passphrase-2.0.3.tgz",
   "_shasum": "1991c1706eb7d79a767cb7a2616a9322a8d0d4b3",
-  "_spec": "@phaetonhq/phaeton-passphrase",
+  "_spec": "phaeton-passphrase",
   "_where": "/home/hotam/project/phaeton/phaeton-packages",
   "author": {
     "name": "Phaeton Foundation",
@@ -72,7 +71,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist-node/index.js",
-  "name": "@phaetonhq/phaeton-passphrase",
+  "name": "phaeton-passphrase",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PhaetonHQ/phaeton-sdk.git"
